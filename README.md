@@ -32,3 +32,4 @@ Qual relação da nota com o acesso a internet e ter um computador em casa?
 Este dataset possui várias variaveis que podem ser exploradas, mas elenquei somente algumas mais importantes para exploração e fazer teste estatisticos.
 
 Estou em processo de aprendizagem, e estou em busca de entrar no mercado trabalho na área de ciência de dados ou Análise de dados.
+
